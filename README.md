@@ -3,15 +3,9 @@
 ### HIghly Motivated and Passionate about Machine Learning and Ai
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-?font=Fira+Code
-&pause=1000
-&color=2E9EF7
-&center=true
-&vCenter=true
-&width=800
-&lines=Highly%20Motivated%20and%20Passionate;About%20Machine%20Learning%20and%20AI" />
+  <img src="https://readme-typing-svg.herokuapp.comfont=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Highly%20Motivated%20and%20Passionate%20about%20Machine%20Learning%20and%20AI" />
 </p>
+
 
 
 ---
