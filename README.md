@@ -3,8 +3,16 @@
 ### HIghly Motivated and Passionate about Machine Learning and Ai
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=HIghly%20Motivated%20and%20Passionate%20about%20Machine%20Learning%20and%20Ai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com
+?font=Fira+Code
+&pause=1000
+&color=2E9EF7
+&center=true
+&vCenter=true
+&width=800
+&lines=Highly%20Motivated%20and%20Passionate;About%20Machine%20Learning%20and%20AI" />
 </p>
+
 
 ---
 
@@ -48,21 +56,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajkumar-gola&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajkumar-gola&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkumar-gola&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=neerajkumar-gola&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
