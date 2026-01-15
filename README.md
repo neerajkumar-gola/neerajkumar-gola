@@ -1,9 +1,9 @@
 # Hi 👋, I'm Neeraj
 
-### HIghly Motivated and Passionate about Machine Learning and Ai
+### Highly Motivated and Passionate about Machine Learning and Ai and Innovative software solutions to Real world Problems
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=HIghly%20Motivated%20and%20Passionate%20about%20Machine%20Learning%20and%20Ai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&speed=50&lines=Highly%20Motivated%20and%20Passionate%20about%20Machine%20Learning%20and%20Ai" alt="Typing SVG" />
 </p>
 
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **I am a fresher, currently a student of J. C. Bose University of Science and Technology, YMCA Faridabad**
+- 🔭 I'm currently **a student of J. C. Bose University of Science and Technology, YMCA Faridabad going to be Graduated in June 2026**
 
 - 🌱 I'm currently learning **More concepts and algo of Machine Learning and going to dive into Deep Learning**
 
@@ -35,7 +35,7 @@
 <a href="https://x.com/neerajgola84480" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
-📧 Email: **neerajgola8448@gmail.com**
+📩 Email: **neerajgola8448@gmail.com**
 
 ---
 
@@ -47,25 +47,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajkumar-gola&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neerajkumar-gola&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkumar-gola&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajkumar-gola&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkumar-gola&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajkumar-gola&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neerajkumar-gola&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=neerajkumar-gola&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+
 
 <p align="center">
   ⭐️ From <a href="https://github.com/neerajkumar-gola">neerajkumar-gola</a>
