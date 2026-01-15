@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a>
+  ⭐️ From <a href="https://github.com/neerajkumar-gola">neerajkumar-gola</a>
 </p>
